@@ -1,0 +1,1 @@
+Determination of different combinations of investment portfolios and minimum variance portfolio for stocks of two U.S. retail companies, namely Walmart and Costco. Includes RStudio code and description.
